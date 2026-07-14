@@ -1,10 +1,11 @@
 ## Hi there 👋
+![image](https://github.com/asifmallik-analytics/asifmallik-analytics/blob/a47a53c6abffe33520ed244530542af8bd0539a8/1.Sales%2C%20inventory%20and%20P%26L%20analysis.png)
 
 <!--
 **asifmallik-analytics/asifmallik-analytics1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![image](https://github.com/asifmallik-analytics/asifmallik-analytics/blob/a47a53c6abffe33520ed244530542af8bd0539a8/1.Sales%2C%20inventory%20and%20P%26L%20analysis.png)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
